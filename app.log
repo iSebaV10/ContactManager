@@ -1,0 +1,103 @@
+2021-11-16 18:03:01.709  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : Starting Application using Java 15.0.2 on DESKTOP-P6VTURE with PID 6924 (Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager\target\classes started by Seba in Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager)
+2021-11-16 18:03:01.714  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : No active profile set, falling back to default profiles: default
+2021-11-16 18:03:01.748  INFO 6924 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-11-16 18:03:01.749  INFO 6924 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-11-16 18:03:02.414  INFO 6924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-11-16 18:03:02.421  INFO 6924 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-11-16 18:03:02.422  INFO 6924 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-11-16 18:03:02.591  INFO 6924 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-11-16 18:03:02.601  INFO 6924 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-11-16 18:03:02.601  INFO 6924 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 852 ms
+2021-11-16 18:03:02.836  INFO 6924 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-11-16 18:03:02.869  INFO 6924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-11-16 18:03:02.876  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : Started Application in 1.441 seconds (JVM running for 2.122)
+2021-11-16 18:03:13.871  INFO 6924 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-16 18:03:13.871  INFO 6924 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-11-16 18:03:13.873  INFO 6924 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-11-16 18:05:06.982  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : Starting Application using Java 15.0.2 on DESKTOP-P6VTURE with PID 6924 (Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager\target\classes started by Seba in Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager)
+2021-11-16 18:05:06.982  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : No active profile set, falling back to default profiles: default
+2021-11-16 18:05:07.100  INFO 6924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-11-16 18:05:07.101  INFO 6924 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-11-16 18:05:07.101  INFO 6924 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-11-16 18:05:07.156  INFO 6924 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-11-16 18:05:07.158  INFO 6924 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-11-16 18:05:07.158  INFO 6924 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 174 ms
+2021-11-16 18:05:07.207  INFO 6924 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-11-16 18:05:07.213  INFO 6924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-11-16 18:05:07.215  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : Started Application in 0.254 seconds (JVM running for 126.461)
+2021-11-16 18:05:07.216  INFO 6924 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-11-16 18:05:29.061  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : Starting Application using Java 15.0.2 on DESKTOP-P6VTURE with PID 6924 (Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager\target\classes started by Seba in Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager)
+2021-11-16 18:05:29.061  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : No active profile set, falling back to default profiles: default
+2021-11-16 18:05:29.165  INFO 6924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-11-16 18:05:29.166  INFO 6924 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-11-16 18:05:29.167  INFO 6924 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-11-16 18:05:29.218  INFO 6924 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-11-16 18:05:29.219  INFO 6924 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-11-16 18:05:29.220  INFO 6924 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 157 ms
+2021-11-16 18:05:29.260  INFO 6924 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-11-16 18:05:29.266  INFO 6924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-11-16 18:05:29.268  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : Started Application in 0.226 seconds (JVM running for 148.514)
+2021-11-16 18:05:29.269  INFO 6924 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-11-16 18:05:45.953  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : Starting Application using Java 15.0.2 on DESKTOP-P6VTURE with PID 6924 (Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager\target\classes started by Seba in Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager)
+2021-11-16 18:05:45.953  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : No active profile set, falling back to default profiles: default
+2021-11-16 18:05:46.062  INFO 6924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-11-16 18:05:46.062  INFO 6924 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-11-16 18:05:46.062  INFO 6924 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-11-16 18:05:46.105  INFO 6924 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-11-16 18:05:46.107  INFO 6924 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-11-16 18:05:46.107  INFO 6924 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 153 ms
+2021-11-16 18:05:46.144  INFO 6924 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-11-16 18:05:46.149  INFO 6924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-11-16 18:05:46.151  INFO 6924 --- [restartedMain] c.p.desafio.ContactManager.Application   : Started Application in 0.215 seconds (JVM running for 165.397)
+2021-11-16 18:05:46.152  INFO 6924 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-11-16 18:06:39.420  INFO 6924 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-16 18:06:39.420  INFO 6924 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-11-16 18:06:39.420  INFO 6924 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-11-16 18:13:09.971  INFO 10392 --- [restartedMain] c.e.desafio.ContactManager.Application   : Starting Application using Java 15.0.2 on DESKTOP-P6VTURE with PID 10392 (Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager\target\classes started by Seba in Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager)
+2021-11-16 18:13:09.973  INFO 10392 --- [restartedMain] c.e.desafio.ContactManager.Application   : No active profile set, falling back to default profiles: default
+2021-11-16 18:13:10.007  INFO 10392 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-11-16 18:13:10.007  INFO 10392 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-11-16 18:13:10.695  INFO 10392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-11-16 18:13:10.703  INFO 10392 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-11-16 18:13:10.704  INFO 10392 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-11-16 18:13:10.879  INFO 10392 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-11-16 18:13:10.890  INFO 10392 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-11-16 18:13:10.890  INFO 10392 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 883 ms
+2021-11-16 18:13:11.135  WARN 10392 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2021-11-16 18:13:11.148  WARN 10392 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2021-11-16 18:13:11.151  INFO 10392 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2021-11-16 18:13:11.160  INFO 10392 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-11-16 18:13:11.171 ERROR 10392 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-11-16 18:13:16.270  INFO 6924 --- [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-11-16 18:13:20.972  INFO 1152 --- [restartedMain] c.e.desafio.ContactManager.Application   : Starting Application using Java 15.0.2 on DESKTOP-P6VTURE with PID 1152 (Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager\target\classes started by Seba in Z:\Users\Seba\Downloads\Desafios Pablo\Desafío_-_Crear_proyecto_Contact_Manager\desafio.ContactManager)
+2021-11-16 18:13:20.974  INFO 1152 --- [restartedMain] c.e.desafio.ContactManager.Application   : No active profile set, falling back to default profiles: default
+2021-11-16 18:13:21.006  INFO 1152 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-11-16 18:13:21.006  INFO 1152 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-11-16 18:13:21.658  INFO 1152 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-11-16 18:13:21.665  INFO 1152 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-11-16 18:13:21.666  INFO 1152 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-11-16 18:13:21.830  INFO 1152 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-11-16 18:13:21.841  INFO 1152 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-11-16 18:13:21.841  INFO 1152 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 835 ms
+2021-11-16 18:13:22.063  INFO 1152 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-11-16 18:13:22.093  INFO 1152 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-11-16 18:13:22.100  INFO 1152 --- [restartedMain] c.e.desafio.ContactManager.Application   : Started Application in 1.395 seconds (JVM running for 2.024)
+2021-11-16 18:13:27.543  INFO 1152 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-16 18:13:27.544  INFO 1152 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-11-16 18:13:27.544  INFO 1152 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-11-16 18:19:28.190  INFO 1152 --- [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
